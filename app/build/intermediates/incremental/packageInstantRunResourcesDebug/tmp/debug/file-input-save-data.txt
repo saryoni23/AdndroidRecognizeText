@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jun 05 05:21:29 ICT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\indra\\AndroidStudioProjects\\AndroidRecognizeText\\app\\build\\intermediates\\assets\\debug
+0.path=CSDL/eng.traineddata
+0.set=ASSET
+count=1
