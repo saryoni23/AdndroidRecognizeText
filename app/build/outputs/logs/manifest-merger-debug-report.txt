@@ -4,12 +4,12 @@ ADDED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\mai
 INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:2:1-56:12
 INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:2:1-56:12
 INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:2:1-56:12
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\286abf4227005820a82833212d7e0ec4\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\70ea318212694c23e85418c4e94b61d9\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e741f0542d584c60be3d1d7ccd02ca9\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6e719856b6b04d08d234a3f1beee24e1\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e7d820759c066f6554f7f26ef4145275\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e6f35ade67c00f00bc38a5aa8dc9f5d9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6a4a321da92143cf323a97ab5367dc15\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e6b04d188c480efb096e5f4b45d08318\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3e938bbec6846eaba5dd1d7828027bd5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0fc59beab939bcccc6b08d38840aabf9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\4a8b24d6d5e9b8ed8a02127d6183ef0f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e235fa7334820cccec41171a2f2efae1\AndroidManifest.xml:17:1-31:12
 INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:2:1-56:12
 INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:2:1-56:12
 INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:2:1-56:12
@@ -31,22 +31,22 @@ uses-sdk
 ADDED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\286abf4227005820a82833212d7e0ec4\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\286abf4227005820a82833212d7e0ec4\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\70ea318212694c23e85418c4e94b61d9\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\70ea318212694c23e85418c4e94b61d9\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e741f0542d584c60be3d1d7ccd02ca9\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e741f0542d584c60be3d1d7ccd02ca9\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6e719856b6b04d08d234a3f1beee24e1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6e719856b6b04d08d234a3f1beee24e1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e7d820759c066f6554f7f26ef4145275\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e7d820759c066f6554f7f26ef4145275\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e6f35ade67c00f00bc38a5aa8dc9f5d9\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e6f35ade67c00f00bc38a5aa8dc9f5d9\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6a4a321da92143cf323a97ab5367dc15\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6a4a321da92143cf323a97ab5367dc15\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e6b04d188c480efb096e5f4b45d08318\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e6b04d188c480efb096e5f4b45d08318\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3e938bbec6846eaba5dd1d7828027bd5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3e938bbec6846eaba5dd1d7828027bd5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0fc59beab939bcccc6b08d38840aabf9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0fc59beab939bcccc6b08d38840aabf9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\4a8b24d6d5e9b8ed8a02127d6183ef0f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\4a8b24d6d5e9b8ed8a02127d6183ef0f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e235fa7334820cccec41171a2f2efae1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e235fa7334820cccec41171a2f2efae1\AndroidManifest.xml:21:5-23:58
 INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\286abf4227005820a82833212d7e0ec4\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6a4a321da92143cf323a97ab5367dc15\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		ADDED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml
@@ -101,18 +101,18 @@ ADDED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\mai
 		ADDED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:27:9-63
 application
 ADDED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:30:5-54:19
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\286abf4227005820a82833212d7e0ec4\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\286abf4227005820a82833212d7e0ec4\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\70ea318212694c23e85418c4e94b61d9\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\70ea318212694c23e85418c4e94b61d9\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e741f0542d584c60be3d1d7ccd02ca9\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e741f0542d584c60be3d1d7ccd02ca9\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6e719856b6b04d08d234a3f1beee24e1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6e719856b6b04d08d234a3f1beee24e1\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e7d820759c066f6554f7f26ef4145275\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e7d820759c066f6554f7f26ef4145275\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e6f35ade67c00f00bc38a5aa8dc9f5d9\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e6f35ade67c00f00bc38a5aa8dc9f5d9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6a4a321da92143cf323a97ab5367dc15\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6a4a321da92143cf323a97ab5367dc15\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e6b04d188c480efb096e5f4b45d08318\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e6b04d188c480efb096e5f4b45d08318\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3e938bbec6846eaba5dd1d7828027bd5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3e938bbec6846eaba5dd1d7828027bd5\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0fc59beab939bcccc6b08d38840aabf9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0fc59beab939bcccc6b08d38840aabf9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\4a8b24d6d5e9b8ed8a02127d6183ef0f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\4a8b24d6d5e9b8ed8a02127d6183ef0f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e235fa7334820cccec41171a2f2efae1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e235fa7334820cccec41171a2f2efae1\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:33:9-41
 	android:largeHeap
@@ -154,18 +154,18 @@ ADDED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\mai
 	android:name
 		ADDED from C:\Users\indra\AndroidStudioProjects\AndroidRecognizeText\app\src\main\AndroidManifest.xml:51:13-69
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\286abf4227005820a82833212d7e0ec4\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\70ea318212694c23e85418c4e94b61d9\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\70ea318212694c23e85418c4e94b61d9\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e741f0542d584c60be3d1d7ccd02ca9\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\2e741f0542d584c60be3d1d7ccd02ca9\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6e719856b6b04d08d234a3f1beee24e1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6e719856b6b04d08d234a3f1beee24e1\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e7d820759c066f6554f7f26ef4145275\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\e7d820759c066f6554f7f26ef4145275\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e6f35ade67c00f00bc38a5aa8dc9f5d9\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e6f35ade67c00f00bc38a5aa8dc9f5d9\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6a4a321da92143cf323a97ab5367dc15\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e6b04d188c480efb096e5f4b45d08318\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\e6b04d188c480efb096e5f4b45d08318\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3e938bbec6846eaba5dd1d7828027bd5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\3e938bbec6846eaba5dd1d7828027bd5\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0fc59beab939bcccc6b08d38840aabf9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0fc59beab939bcccc6b08d38840aabf9\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\4a8b24d6d5e9b8ed8a02127d6183ef0f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\4a8b24d6d5e9b8ed8a02127d6183ef0f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e235fa7334820cccec41171a2f2efae1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\e235fa7334820cccec41171a2f2efae1\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\286abf4227005820a82833212d7e0ec4\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6a4a321da92143cf323a97ab5367dc15\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\286abf4227005820a82833212d7e0ec4\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\indra\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\6a4a321da92143cf323a97ab5367dc15\AndroidManifest.xml:26:9-47
